@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# `Burger Builder App`
+Application used to prepare burger as per ingredients added by user. User can place order for burger. Responsive App developed using React.js.
 
 ## Available Scripts
 
